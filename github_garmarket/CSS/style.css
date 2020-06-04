@@ -1,0 +1,21 @@
+.prod {
+	width:25%;
+	display: inline-block;
+	text-align:center;
+}
+
+.body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+@media screen and (max-width:936px) {
+
+   .prod {
+	width:50%;
+       font-size: 12px;
+  
+	
+        
+       
+    }
